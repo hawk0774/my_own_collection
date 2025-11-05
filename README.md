@@ -1,7 +1,7 @@
 # Yandex Cloud ELK — Test Collection
 
 ## Content
-- **Module**: `my_own_module` — creates file **only if it does not exist**
+- **Module**: `my_own_module` — creates file 
 - **Role**: `create_file` — uses `my_own_module` with defaults
 
 ## Role: `create_file`
